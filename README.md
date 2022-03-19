@@ -3,6 +3,8 @@
 
 Como un sueño es una aventura en formato de texto. Desarrollada por Daniel Hernández Pancorbo en [Undum](https://github.com/idmillington/undum), para la asignatura Desarrollo Ágil, curso 2021/22.
 
+[Enlace al tablero Trello del proyecto.](https://trello.com/b/ob7IDgBW/practica-2)
+
 ## Índice
 - [Como un sueño](#como-un-sue-o)
   * [Índice](#-ndice)
